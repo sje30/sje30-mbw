@@ -22,7 +22,7 @@ My office hour will resume in the week beginning April 24th.
 
 ### What's new?
 
-2018-05-18: I have been admitted as a fellow of
+2017-05-18: I have been admitted as a fellow of
 [Magdalene College](http://www.magd.cam.ac.uk).
 
 2017-03-22: We have a new paper studying mechanisms for [convergence of
