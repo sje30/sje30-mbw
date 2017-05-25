@@ -23,7 +23,7 @@ My office hour will resume in the week beginning April 24th.
 ### What's new?
 
 2018-05-18: I have been admitted as a fellow of
-[Magdalene College](http://www.magd.ac.uk).
+[Magdalene College](http://www.magd.cam.ac.uk).
 
 2017-03-22: We have a new paper studying mechanisms for [convergence of
 topographic maps](http://dx.doi.org/10.7554/eLife.20470).
