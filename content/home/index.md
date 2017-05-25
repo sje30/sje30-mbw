@@ -1,0 +1,49 @@
++++
+title = "Stephen J Eglen"
+hasMath = false 
++++
+
+![Snapshot](/img/snapshot2015-fg-30.png#floatright)
+
+I am a Reader in Computational Neuroscience in the
+[Department of Applied Mathematics and Theoretical Physics](http://damtp.cam.ac.uk),
+and member of the Cambridge Computational Biology Institute
+[CCBI](http://www.ccbi.cam.ac.uk). I use computational techniques to
+investigate development of the nervous system.  I am also director of
+the
+[MPhil in Computational Biology](https://www.maths.cam.ac.uk/postgrad/mphil/compbio).
+
+ 
+### Office hour
+
+<!-- I normally have an office hour during term time.  In Lent term 2017 -->
+<!-- it is Thursday 12:30-13:30 (starts 19 Jan). -->
+My office hour will resume in the week beginning April 24th.
+
+### What's new?
+
+2018-05-18: I have been admitted as a fellow of
+[Magdalene College](http://www.magd.ac.uk).
+
+2017-03-22: We have a new paper studying mechanisms for [convergence of
+topographic maps](http://dx.doi.org/10.7554/eLife.20470).
+
+2017-03-06: We are hosting a workshop on
+[Docker containers for reproducible research](https://www.software.ac.uk/c4rr)
+in Cambridge 27/28 June 2017.
+
+2016-08-09: [slides](http://bit.ly/eglen-nijmegen) and
+[references](http://bit.ly/eglen-n-refs) for Nijmegen summer school
+[Maps in the brain](http://www.ru.nl/radboudsummerschool/courses/brain-behaviour/vm-more-courses/maps-the-brain/).
+
+2016-07-03: [slides](http://bit.ly/fens-eglen) for our [FENS networking event](https://www.incf.org/news/incf-social-at-fens).
+
+2016-05-22: draft slides for
+[UK neuroinformatics node](http://sje30.github.io/talks/2016/uknode.html)
+
+2016-04-06: blog post on our special issue
+[Quantitative Analysis of Neuroanatomy](/post/qan).
+
+2016-03-12: I am in the process of generating a new web site.  For
+now, my [current site](http://www.damtp.cam.ac.uk/user/sje30/index2006.html) is
+still available.
